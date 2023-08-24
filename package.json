@@ -1,0 +1,17 @@
+{
+  "name": "intro-litelement",
+  "version": "1.0.0",
+  "description": "WebComponents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Lizeth Evelyn",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lit": "^2.8.0"
+  }
+}
