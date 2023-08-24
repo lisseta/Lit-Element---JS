@@ -12,6 +12,10 @@
   "author": "Lizeth Evelyn",
   "license": "UNLICENSED",
   "dependencies": {
-    "lit": "^2.8.0"
+    "lit": "^2.8.0",
+    "lit-html": "^2.8.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.3.0"
   }
 }
